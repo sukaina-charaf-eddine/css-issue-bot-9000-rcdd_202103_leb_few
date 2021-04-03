@@ -16,4 +16,5 @@ font-style: italic;
 #tasks .completed{
   background: #ccc;
   text-decoration: underline;
+font-family: cursive;
 }
